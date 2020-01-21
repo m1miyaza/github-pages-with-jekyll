@@ -1,3 +1,3 @@
-# Welcome to my blog (Original)
+# Welcome to my blog (Original Content)
 
 I'm glad you are here. I plan to talk about ...
