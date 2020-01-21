@@ -1,3 +1,3 @@
-# Welcome to my blog (Chagned!)
+# Welcome to my blog (Changed!)
 
 I'm glad you are here. I plan to talk about ...
